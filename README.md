@@ -58,14 +58,13 @@ Coming from a non-technical background, I self-taught Python, ML, and AI tools t
 ## Structure
 
 aml-hunter/
-├── data/ # Real-world transaction datasets
-├── models/ # Saved ML model files
-├── agents/ # Crew AI agents logic for automation
-├── notebooks/ # Jupyter notebooks for EDA and experimentation
-├── pipeline/ # Scripts for data prep, training, and inference
-├── explainability/ # SHAP & RAG tools for interpreting results
-└── README.md # Project documentation
-
+- `data/` – Real-world transaction datasets  
+- `models/` – Saved ML model files  
+- `agents/` – Crew AI agent logic for automation  
+- `notebooks/` – Jupyter notebooks for EDA and experimentation  
+- `pipeline/` – Scripts for data preparation, training, and inference  
+- `explainability/` – SHAP & RAG tools for interpreting results  
+- `README.md` – Project documentation
 
 ---
 
